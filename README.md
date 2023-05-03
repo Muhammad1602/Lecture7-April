@@ -1,7 +1,7 @@
 # Lecture7-April
 # Homework
 ## _`Synchronous vs Asynchronous programming`_
-![The San Juan Mountains are beautiful!](./img/Synchronous vs Asynchronous programming.png)
+![The San Juan Mountains are beautiful!](./img/Synchronous%20vs%20Asynchronous%20programming.png)
 
 
 ## _`Synchronous`_
